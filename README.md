@@ -8,9 +8,7 @@ I'm using this awesome course: [complete-javascript-course](https://github.com/j
 
 ---
 
-### My Journey to the Final Boss
-
-Here's what I'm focused on:
+### Here's what I'm focused on:
 
 * **Deep Dives, Not Just Doodles:** I'm not just gonna copy and paste stuff. I'm getting into the nitty-gritty of concepts like **Closures**, **Prototype Chains**, and the super weird `this` keyword.
 * **Code My Way:** I'm tackling each project on my own first. Then, I'll compare my code to the solution to see what I missed and find better ways to do things.
