@@ -1,4 +1,4 @@
-#JavaScript Core Skills Review and Reinforcement
+# JavaScript Core Skills Review and Reinforcement
 
 **"Repetition is the mother of all learning."**
 
